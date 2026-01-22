@@ -3,16 +3,19 @@
 <div align="center">
 
 ```
-╭──────────────────────────────────────────╮
-│    🤖 NULLSEC ANDROID SECURITY SUITE    │
-│    ═══════════════════════════════════  │
-│                                          │
-│   🔓 Android Security Research           │
-│   📦 APK Analysis & Reverse Eng.         │
-│   🛡️  Root Detection Bypass              │
-│                                          │
-│          bad-antics | NullSec            │
-╰──────────────────────────────────────────╯
+ ███▄    █  █    ██  ██▓     ██▓      ██████ ▓█████  ▄████▄  
+ ██ ▀█   █  ██  ▓██▒▓██▒    ▓██▒    ▒██    ▒ ▓█   ▀ ▒██▀ ▀█  
+▓██  ▀█ ██▒▓██  ▒██░▒██░    ▒██░    ░ ▓██▄   ▒███   ▒▓█    ▄ 
+▓██▒  ▐▌██▒▓▓█  ░██░▒██░    ▒██░      ▒   ██▒▒▓█  ▄ ▒▓▓▄ ▄██▒
+▒██░   ▓██░▒▒█████▓ ░██████▒░██████▒▒██████▒▒░▒████▒▒ ▓███▀ ░
+░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░▒ ▒▓▒ ▒ ░░░ ▒░ ░░ ░▒ ▒  ░
+░ ░░   ░ ▒░░░▒░ ░ ░ ░ ░ ▒  ░░ ░ ▒  ░░ ░▒  ░ ░ ░ ░  ░  ░  ▒   
+   ░   ░ ░  ░░░ ░ ░   ░ ░     ░ ░   ░  ░  ░     ░   ░        
+         ░    ░         ░  ░    ░  ░      ░     ░  ░░ ░      
+    ░                                               ░  ▄▄▄▄▄▄
+            🤖 ANDROID SECURITY SUITE 🤖
+       🔓 Research • 📦 APK Analysis • 🛡️ Root Bypass
+                 bad-antics | NullSec
 ```
 
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)

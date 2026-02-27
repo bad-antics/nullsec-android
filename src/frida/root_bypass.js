@@ -2,13 +2,13 @@
  * ═══════════════════════════════════════════════════════════════════
  *  NULLSEC Android Frida Root Detection Bypass
  *  Bypass root and integrity checks on Android applications
- *  @author bad-antics | discord.gg/killers
+ *  @author bad-antics | x.com/AnonAntics
  * ═══════════════════════════════════════════════════════════════════
  */
 
 const VERSION = "2.0.0";
 const AUTHOR = "bad-antics";
-const DISCORD = "discord.gg/killers";
+const DISCORD = "x.com/AnonAntics";
 
 const BANNER = `
  ██▀███   ▒█████   ▒█████  ▄▄▄█████▓    ▄▄▄▄ ▓██   ██▓ ██▓███   ▄▄▄        ██████   ██████ 
@@ -21,7 +21,7 @@ const BANNER = `
   ░░   ░ ░ ░ ░ ▒  ░ ░ ░ ▒    ░          ░    ░▒ ▒ ░░  ░░         ░   ▒   ░  ░  ░  ░  ░  ░  
    ░         ░ ░      ░ ░               ░     ░ ░                    ░  ░      ░        ░   
   ░                                          ░░ ░                                    ▄▄▄▄▄▄
-                    🔓 ROOT BYPASS | bad-antics | discord.gg/killers
+                    🔓 ROOT BYPASS | bad-antics | x.com/AnonAntics
 `;
 
 // ═══════════════════════════════════════════════════════════════════

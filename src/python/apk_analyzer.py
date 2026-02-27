@@ -3,7 +3,7 @@
 ═══════════════════════════════════════════════════════════════════
  NULLSEC Android APK ANALYZER
  Comprehensive Android application package analysis
- @author bad-antics | discord.gg/killers
+ @author bad-antics | x.com/AnonAntics
 ═══════════════════════════════════════════════════════════════════
 """
 
@@ -23,7 +23,7 @@ from datetime import datetime
 
 VERSION = "2.0.0"
 AUTHOR = "bad-antics"
-DISCORD = "discord.gg/killers"
+DISCORD = "x.com/AnonAntics"
 
 BANNER = """
  ▄▄▄       ██▓███   ██ ▄█▀    ▄▄▄       ███▄    █  ▄▄▄       ██▓   ▓██   ██▓▒███████▒▓█████  ██▀███  
@@ -36,7 +36,7 @@ BANNER = """
   ░   ▒   ░░       ░ ░░ ░      ░   ▒      ░   ░ ░   ░   ▒     ░ ░   ▒ ▒ ░░  ░ ░ ░ ░ ░   ░     ░░   ░ 
       ░  ░           ░             ░  ░         ░       ░  ░    ░  ░░ ░       ░ ░       ░  ░   ░     
     ░                    ░                                          ░ ░     ░               ▄▄▄▄▄▄▄▄
-                           🤖 APK ANALYZER | bad-antics | discord.gg/killers
+                           🤖 APK ANALYZER | bad-antics | x.com/AnonAntics
 """
 
 # ═══════════════════════════════════════════════════════════════════
